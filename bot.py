@@ -15,13 +15,13 @@ bot = telebot.TeleBot(BOT_TOKEN)
 # =========================
 COMMANDS = {
     "69blu": {
-        "link": ""
-    },
-    "96rad": {
         "link": "https://t.me/blugay69"
     },
-    "fb7yt": {
+    "96rad": {
         "link": "https://t.me/hotandgoot"
+    },
+    "fb7yt": {
+        "link": "https://youtube.com/@fusionbhai7?si=2EvLX4a2Ka6_UomV"
     },
     "fb7fc": {
         "link": ""
